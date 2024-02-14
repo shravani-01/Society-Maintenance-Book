@@ -6,7 +6,8 @@
 - Developed a full-stack web application to streamline the management of society maintenance records for both admin and normal users.
 - Implemented features allowing users to view specific records for months, the last two years, and details of payments made by the society for various charges.
 - Admin functionalities include maintaining society members' records and assigning penalties for overdue dues.
-  ![Homepage.png]()
+ ![Homepage](Homepage.png)
+
 
 
 **Technologies Used:**
