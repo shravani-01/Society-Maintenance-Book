@@ -1,6 +1,6 @@
-# Society-Maintenance-Book
+# Society-Maintenance-Management System
 
-**Project Title:** Society Maintenance Book
+**Project Title:** Society Maintenance Platform
 
 **Project Description:**
 - Developed a full-stack web application to streamline the management of society maintenance records for both admin and normal users.
